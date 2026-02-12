@@ -1,3 +1,3 @@
 # git-conflict-challenge
 
-Up via CS
+up with Merge
